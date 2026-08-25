@@ -1,0 +1,6 @@
+# Requires Python >= 3.11 (see README.md)
+langgraph>=1.2,<2
+langchain-core>=1.6,<2
+langchain-openai>=1.6,<2
+scikit-learn>=1.4.0
+python-dotenv>=1.0.0

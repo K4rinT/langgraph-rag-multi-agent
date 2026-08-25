@@ -1,0 +1,126 @@
+MERIDIAN DATA SOLUTIONS — EMPLOYEE HANDBOOK AND PRODUCT REFERENCE
+Document version 4.2 — Last revised 12 March 2024
+Internal use only. Supersedes all previous versions.
+
+
+SECTION 1: COMPANY OVERVIEW
+
+Meridian Data Solutions is a mid-sized analytics software company founded in 2011, headquartered in Singapore with regional offices in Bangkok, Sydney, and Frankfurt. The company employs approximately 640 people across four business units: Platform Engineering, Professional Services, Customer Success, and Corporate Functions. Meridian serves roughly 1,200 enterprise customers, concentrated in the financial services, logistics, and healthcare sectors.
+
+The company operates on a calendar fiscal year ending 31 December. All policies in this handbook apply to full-time permanent employees unless explicitly stated otherwise. Contractors and fixed-term staff are governed by the terms of their individual engagement agreements, though the Code of Conduct and Information Security sections apply to every person with access to Meridian systems.
+
+
+SECTION 2: WORKING HOURS AND REMOTE WORK
+
+Standard working hours are 09:00 to 18:00 local office time, with a one-hour unpaid lunch break. Meridian operates a hybrid model: employees are expected in their assigned office a minimum of two days per week, with Wednesday designated as a company-wide anchor day when all team members should be present. Managers may grant permanent exceptions for employees whose role is classified as fully remote in the HR system.
+
+Requests to work remotely from a location outside your country of employment for more than fifteen consecutive calendar days require approval from both your line manager and the People Operations team. Such requests are assessed for tax residency exposure, immigration compliance, and data protection risk. Approval is not guaranteed and is typically declined for stays exceeding ninety days in any twelve-month period.
+
+
+SECTION 3: ANNUAL LEAVE AND PUBLIC HOLIDAYS
+
+Full-time employees accrue 22 days of paid annual leave per calendar year, accruing at 1.83 days per completed month of service. Employees with more than five years of continuous service accrue 27 days. Leave must be requested through the Workday portal at least ten business days in advance for absences of three days or longer, and at least two business days in advance for shorter absences.
+
+A maximum of five unused annual leave days may be carried over into the following calendar year and must be consumed before 31 March, after which they lapse without compensation. Meridian does not pay out unused annual leave except on termination of employment, where accrued but untaken leave is settled in the final pay run. Public holidays follow the calendar of the country in which the employee is based and do not count against the annual leave allowance.
+
+
+SECTION 4: SICK LEAVE AND MEDICAL ABSENCE
+
+Employees are entitled to 14 days of paid sick leave per calendar year. A medical certificate from a registered practitioner is required for any absence of three or more consecutive working days, and must be submitted to People Operations within five business days of returning to work. Sick leave does not accrue and unused days do not carry over.
+
+Absences extending beyond fourteen days transition to the long-term medical leave scheme, which provides 60 percent of base salary for up to six months, subject to approval by the company's insurance provider. Employees on long-term medical leave retain their health coverage and continue to accrue annual leave at the standard rate.
+
+
+SECTION 5: DOMESTIC TRAVEL POLICY
+
+Domestic business travel requires written approval from the employee's line manager before any booking is made. All flights and rail tickets must be booked through the Meridian Travel Desk or the approved online booking tool; tickets purchased directly from airlines or third-party sites will not be reimbursed except in documented emergencies.
+
+Domestic flights of under four hours must be booked in economy class regardless of employee grade. Hotel accommodation is capped at SGD 220 per night in Singapore and Sydney, and SGD 140 per night in Bangkok and other regional cities. Ground transport should default to public transit or ride-hailing services; rental cars require separate justification.
+
+
+SECTION 6: INTERNATIONAL TRAVEL POLICY
+
+All international business travel requires approval from the employee's line manager AND the relevant Business Unit Director. Requests must be submitted through the Travel Authorization Form at least twenty-one calendar days before departure. Travel to destinations rated High or Extreme on the company's security risk register additionally requires sign-off from the Chief Operating Officer and a mandatory pre-departure security briefing.
+
+Employees travelling internationally are covered by the corporate travel insurance policy, which includes medical evacuation, trip interruption, and personal liability cover. Coverage is automatic for approved trips but does not extend to personal leave days appended to a business trip unless declared in advance on the Travel Authorization Form. Employees are responsible for ensuring their passport has at least six months of validity remaining and for obtaining any required visas; the Travel Desk provides invitation letters and supporting documentation on request but does not submit applications on the employee's behalf.
+
+Long-haul international flights exceeding seven hours in duration may be booked in premium economy for all grades, and in business class for employees at Director level and above. Flights under seven hours are economy class only. Where a stopover of more than eight hours is unavoidable, a transit hotel is reimbursable. Meridian permits a rest day at full pay following any return flight of nine hours or more, to be taken within three days of arrival.
+
+
+SECTION 7: EXPENSE REIMBURSEMENT AND PER DIEM
+
+Expense claims must be submitted through the Concur system within thirty calendar days of the expenditure being incurred. Claims submitted after sixty days will be rejected unless accompanied by a written exception approved by the Finance Director. Every claim requires an itemised receipt; credit card statements alone are not accepted as evidence.
+
+Meals during business travel are reimbursed on a per diem basis rather than by individual receipt. The daily allowance is SGD 75 for domestic travel and SGD 110 for international travel, reduced by one third for each meal provided by a conference, client, or hotel rate. Alcohol is not reimbursable except when incurred as part of a documented client entertainment event with prior approval. Personal expenses including laundry for trips under five nights, in-room entertainment, minibar items, and airport lounge access outside the corporate programme are not reimbursable.
+
+
+SECTION 8: CORPORATE CREDIT CARD
+
+Corporate credit cards are issued to employees who travel more than four times per year or who hold delegated purchasing authority. Cards remain the property of Meridian Data Solutions and must be surrendered on termination or on change to a role that does not require one.
+
+Cardholders must reconcile transactions in Concur within fifteen days of the statement date. Personal use of the corporate card is prohibited; where accidental personal use occurs, the employee must repay the amount within seven days and notify Finance in writing. Repeated misuse results in card withdrawal and may constitute a disciplinary matter.
+
+
+SECTION 9: INFORMATION SECURITY AND DEVICE HANDLING
+
+All Meridian-issued laptops use full-disk encryption and enforce automatic screen lock after five minutes of inactivity. Employees must not install unapproved software, disable endpoint protection, or connect company devices to untrusted USB peripherals. Lost or stolen devices must be reported to the Security Operations Centre within two hours of discovery, at any hour of the day.
+
+Employees travelling internationally must not carry their primary work laptop to destinations on the restricted country list maintained by the Security team. Loaner devices, wiped and reimaged on return, are issued for these trips through a request to the IT Service Desk at least five business days before departure. Connection to public or hotel wireless networks requires the corporate VPN to be active at all times. Border inspection of a company device must be reported to the Security Operations Centre immediately upon the employee regaining connectivity.
+
+Multi-factor authentication is mandatory for all systems. Passwords must be at least fourteen characters and are managed exclusively through the company password manager; storing credentials in browsers, spreadsheets, or notes applications is a policy violation.
+
+
+SECTION 10: DATA CLASSIFICATION AND HANDLING
+
+Meridian classifies information into four tiers: Public, Internal, Confidential, and Restricted. Public material may be shared freely. Internal material may be shared with any employee or contractor but not externally. Confidential material, which includes customer data, contract terms, and unreleased product plans, may be shared only with named individuals on a need-to-know basis. Restricted material, which includes personal data of customers' end users, authentication secrets, and material non-public financial information, requires Data Protection Officer approval before any transfer.
+
+Customer data must never be copied to personal devices, personal cloud storage, or unapproved AI tools. Production data may not be used in development or test environments; the Platform Engineering team maintains a synthetic data generator for this purpose. Data retention defaults to seven years for contractual records and thirty-six months for operational logs, after which deletion is automated.
+
+
+SECTION 11: NEW EMPLOYEE ONBOARDING
+
+Onboarding runs for the first ninety days of employment. New joiners complete mandatory compliance training covering information security, anti-bribery, data protection, and workplace conduct within the first fourteen days. Failure to complete mandatory training within thirty days results in suspension of system access until remediated.
+
+Each new employee is assigned an onboarding buddy from outside their immediate team and meets their line manager for a structured check-in at day 30, day 60, and day 90. Probation is confirmed or extended at the ninety-day review. Probation may be extended once, by a maximum of three months.
+
+
+SECTION 12: PERFORMANCE REVIEW AND PROMOTION
+
+Meridian runs two formal performance cycles per year, concluding in June and December. Each cycle comprises a self-assessment, a manager assessment, and calibration across the business unit. Ratings are on a five-point scale from Below Expectations to Outstanding. Compensation adjustments take effect in the pay run following the December cycle only; the June cycle is developmental and does not affect salary.
+
+Promotion is decoupled from the rating scale and requires a written case submitted by the line manager, endorsed by a second manager at the target grade or above, and reviewed by the business unit's promotion panel. Employees must have completed probation and must not be subject to an active performance improvement plan to be eligible.
+
+
+SECTION 13: LEARNING AND DEVELOPMENT BUDGET
+
+Every full-time employee has an annual learning budget of SGD 2,000, which may be used for conferences, certifications, online courses, coaching, and professional memberships. The budget resets on 1 January and does not carry over. Spending requires line manager approval in advance and is claimed through Concur under the Learning category.
+
+Where a single certification or programme costs more than SGD 5,000, Meridian may fund the excess under a training agreement requiring the employee to remain with the company for twelve months following completion, with pro-rated repayment if they resign earlier. Conference attendance that involves international travel is subject to the international travel approval process in Section 6 and consumes travel budget rather than learning budget for the flight and accommodation components.
+
+
+SECTION 14: CODE OF CONDUCT, GIFTS AND ENTERTAINMENT
+
+Employees must not accept gifts, hospitality, or benefits from customers, suppliers, or prospective partners where doing so could reasonably be seen to influence a business decision. Gifts with an estimated value below SGD 100 may be accepted without approval but must be recorded in the Gifts and Hospitality Register within ten business days. Anything above that threshold requires prior written approval from the employee's Business Unit Director and must also be registered.
+
+Cash, cash equivalents, and gift cards may never be accepted regardless of value. Offering or accepting anything of value to secure an improper business advantage is prohibited absolutely and may constitute a criminal offence. Employees who become aware of a potential breach must report it through the confidential Speak Up channel, which accepts anonymous reports and prohibits retaliation against anyone raising a concern in good faith.
+
+
+SECTION 15: PRODUCT — MERIDIANONE ANALYTICS PLATFORM
+
+MeridianOne is the company's flagship product: a cloud-native analytics platform that ingests structured and semi-structured data, applies transformation pipelines, and exposes results through dashboards and a REST API. It is offered as a fully managed SaaS deployment in Singapore, Frankfurt, and Sydney regions, and as a self-hosted deployment for customers with data residency constraints.
+
+The platform is sold in three editions. Essentials supports up to 50 million rows and five concurrent pipelines, with dashboards and standard connectors. Professional raises these limits to 500 million rows and twenty-five concurrent pipelines, and adds role-based access control, audit logging, and the REST API. Enterprise removes row limits entirely, adds single sign-on via SAML and OIDC, customer-managed encryption keys, private network connectivity, and the ability to deploy self-hosted. Pricing is annual and based on ingested data volume rather than user seats.
+
+
+SECTION 16: CUSTOMER SUPPORT TIERS AND SERVICE LEVELS
+
+Support is delivered in three tiers aligned to product edition. Essentials customers receive email support with a first-response target of one business day during Singapore business hours. Professional customers receive email and chat support with a four-business-hour first-response target and access to a named Customer Success Manager. Enterprise customers receive 24/7 support with a one-hour first-response target for critical incidents, a dedicated Technical Account Manager, and quarterly service reviews.
+
+Incident severity is classified from P1 to P4. A P1 denotes complete service unavailability or confirmed data loss affecting production; the target resolution or documented workaround is four hours for Enterprise and eight hours for Professional. P2 denotes major functional degradation with no workaround, targeted at one business day. P3 covers minor defects and P4 covers questions and feature requests, targeted at five and ten business days respectively. The managed SaaS platform carries a 99.9 percent monthly uptime commitment for Professional and 99.95 percent for Enterprise, with service credits of 10 to 30 percent of monthly fees applied where the commitment is missed.
+
+
+SECTION 17: CUSTOMER REFUNDS AND CONTRACT TERMINATION
+
+Annual subscriptions are non-refundable once the service has been provisioned, except where Meridian materially breaches the service agreement and fails to remedy the breach within thirty days of written notice. In such cases the customer is entitled to a pro-rated refund of prepaid fees covering the remainder of the term.
+
+New customers on their first annual contract may cancel within thirty days of provisioning for a full refund, provided ingested data volume has not exceeded ten percent of the contracted allowance. This introductory right does not apply to renewals, expansions, or self-hosted deployments. Customers wishing not to renew must provide written notice at least sixty days before the renewal date; contracts renew automatically for a further twelve months in the absence of such notice. On termination, customers may export their data through the standard export API for a period of forty-five days, after which all customer data is permanently deleted in line with the retention policy.

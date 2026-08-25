@@ -1,0 +1,1 @@
+I could not find anything on that topic in the knowledge base, so I have no grounded answer to give. Try rephrasing the question, or check whether this subject is covered by the documents currently loaded.
