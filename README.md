@@ -10,7 +10,7 @@ reference, in 17 sections.
 
 ## Requirements
 
-- **Python 3.11+** (scikit-learn 1.9 sets this floor)
+- **Python 3.11+** recommended — developed and tested on 3.14 with scikit-learn 1.9
 - An **Azure OpenAI** deployment — only for the live end-to-end run
 
 
