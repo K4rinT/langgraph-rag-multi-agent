@@ -1,4 +1,4 @@
-# Requires Python >= 3.11 (see README.md)
+# Developed on Python >= 3.11+ (see README.md)
 langgraph>=1.2,<2
 langchain-core>=1.6,<2
 langchain-openai>=1.6,<2
